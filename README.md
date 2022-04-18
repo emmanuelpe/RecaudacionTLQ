@@ -1,7 +1,7 @@
 # RecaudacionTLQ
 Ejecutable Recaudacion Version 2 TLQ
 
-Versión 2.0.3
+#Versión 2.0.3
 
-Mejora 
+##Mejora 
 Mostrar comerciante con/sin giro
