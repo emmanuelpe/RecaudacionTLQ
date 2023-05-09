@@ -1,7 +1,7 @@
 # RecaudacionTLQ
 Ejecutable Recaudacion Version 2 TLQ
 
-# Versión 2.0.3
+# Versión 2.0.4
 
 ## Mejora 
 Agregar subsidio o descuento al corte
