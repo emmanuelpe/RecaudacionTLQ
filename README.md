@@ -5,6 +5,7 @@ Ejecutable Recaudacion Version 2 TLQ
 
 ## Mejora 
 Visualizacion de puestos correcto
+Descuentos aplicados
 
 # Versión 2.0.4
 
