@@ -1,6 +1,12 @@
 # RecaudacionTLQ
 Ejecutable Recaudacion Version 2 TLQ
 
+# Versión 2.0.6
+
+## Mejora 
+Mostrar descuento aplicado en ticket
+
+
 # Versión 2.0.5
 
 ## Mejora 
