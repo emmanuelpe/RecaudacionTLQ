@@ -4,6 +4,7 @@ Ejecutable Recaudacion Version 2 TLQ
 # Versión 2.0.6
 
 ## Mejora 
+Fecha 29/08/2023
 Mostrar descuento aplicado en ticket
 
 
